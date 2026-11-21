@@ -1,7 +1,7 @@
 {
-  "name": "Mi Radio",
-  "short_name": "Mi Radio",
-  "description": "Mi reproductor de música personal",
+  "name": "MNZ FM",
+  "short_name": "MNZ FM",
+  "description": "MZN FM con la voz de Mimi",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
