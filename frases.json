@@ -1,0 +1,715 @@
+{
+ "emisora": "MNZ FM",
+ "locutora": "Mimi",
+ "artistas": [
+  {
+   "nombre": "The Weeknd"
+  },
+  {
+   "nombre": "Tame Impala"
+  },
+  {
+   "nombre": "BROCKHAMPTON"
+  },
+  {
+   "nombre": "Silk Sonic",
+   "alias": [
+    "Bruno Mars Anderson Paak",
+    "Anderson Paak Bruno Mars"
+   ]
+  },
+  {
+   "nombre": "Solange"
+  },
+  {
+   "nombre": "Doja Cat"
+  }
+ ],
+ "clips": [
+  {
+   "id": "saludo-manana-1",
+   "tipo": "saludo",
+   "franja": "manana",
+   "texto": "¡Buenos días! Aquí Mimi, abriendo la transmisión de MNZ FM. Que empiece el día con buena música."
+  },
+  {
+   "id": "saludo-manana-2",
+   "tipo": "saludo",
+   "franja": "manana",
+   "texto": "Buenos días, estás sintonizando MNZ FM. Soy Mimi, y hoy vamos a empezar con el pie derecho."
+  },
+  {
+   "id": "saludo-tarde-1",
+   "tipo": "saludo",
+   "franja": "tarde",
+   "texto": "¡Buenas tardes! Soy Mimi, y esto es MNZ FM. Prepárate, porque la tarde está por ponerse buena."
+  },
+  {
+   "id": "saludo-tarde-2",
+   "tipo": "saludo",
+   "franja": "tarde",
+   "texto": "Buenas tardes, te doy la bienvenida a MNZ FM. Soy Mimi, y la música ya está lista."
+  },
+  {
+   "id": "saludo-noche-1",
+   "tipo": "saludo",
+   "franja": "noche",
+   "texto": "¡Buenas noches! Aquí Mimi, abriendo MNZ FM. La noche es perfecta para escuchar buena música."
+  },
+  {
+   "id": "saludo-noche-2",
+   "tipo": "saludo",
+   "franja": "noche",
+   "texto": "Buenas noches, estás en MNZ FM. Soy Mimi, y esta noche el volumen lo decides tú."
+  },
+  {
+   "id": "cierre-1",
+   "tipo": "cierre",
+   "texto": "Eso fue todo por ahora. Gracias por escuchar MNZ FM. Soy Mimi, y vuelvo cuando quieras."
+  },
+  {
+   "id": "cierre-2",
+   "tipo": "cierre",
+   "texto": "Me despido por hoy. Esto fue MNZ FM, con Mimi. Cuídate mucho y hasta la próxima."
+  },
+  {
+   "id": "intro-despues-weeknd-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "The Weeknd",
+   "texto": "Eso fue The Weeknd."
+  },
+  {
+   "id": "intro-despues-weeknd-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "The Weeknd",
+   "texto": "Acabas de escuchar a The Weeknd."
+  },
+  {
+   "id": "intro-antes-weeknd-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "The Weeknd",
+   "texto": "Y ahora, The Weeknd."
+  },
+  {
+   "id": "intro-antes-weeknd-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "The Weeknd",
+   "texto": "Sigue The Weeknd."
+  },
+  {
+   "id": "intro-despues-tame-impala-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Tame Impala",
+   "texto": "Eso fue Tame Impala."
+  },
+  {
+   "id": "intro-despues-tame-impala-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Tame Impala",
+   "texto": "Acabas de escuchar a Tame Impala."
+  },
+  {
+   "id": "intro-antes-tame-impala-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Tame Impala",
+   "texto": "Y ahora, Tame Impala."
+  },
+  {
+   "id": "intro-antes-tame-impala-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Tame Impala",
+   "texto": "Sigue Tame Impala."
+  },
+  {
+   "id": "intro-despues-brockhampton-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "BROCKHAMPTON",
+   "texto": "Eso fue BROCKHAMPTON."
+  },
+  {
+   "id": "intro-despues-brockhampton-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "BROCKHAMPTON",
+   "texto": "Acabas de escuchar a BROCKHAMPTON."
+  },
+  {
+   "id": "intro-antes-brockhampton-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "BROCKHAMPTON",
+   "texto": "Y ahora, BROCKHAMPTON."
+  },
+  {
+   "id": "intro-antes-brockhampton-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "BROCKHAMPTON",
+   "texto": "Sigue BROCKHAMPTON."
+  },
+  {
+   "id": "intro-despues-silk-sonic-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Silk Sonic",
+   "texto": "Eso fue Silk Sonic."
+  },
+  {
+   "id": "intro-despues-silk-sonic-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Silk Sonic",
+   "texto": "Acabas de escuchar a Silk Sonic."
+  },
+  {
+   "id": "intro-antes-silk-sonic-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Silk Sonic",
+   "texto": "Y ahora, Silk Sonic."
+  },
+  {
+   "id": "intro-antes-silk-sonic-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Silk Sonic",
+   "texto": "Sigue Silk Sonic."
+  },
+  {
+   "id": "intro-despues-solange-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Solange",
+   "texto": "Eso fue Solange."
+  },
+  {
+   "id": "intro-despues-solange-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Solange",
+   "texto": "Acabas de escuchar a Solange."
+  },
+  {
+   "id": "intro-antes-solange-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Solange",
+   "texto": "Y ahora, Solange."
+  },
+  {
+   "id": "intro-antes-solange-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Solange",
+   "texto": "Sigue Solange."
+  },
+  {
+   "id": "intro-despues-doja-cat-1",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Doja Cat",
+   "texto": "Eso fue Doja Cat."
+  },
+  {
+   "id": "intro-despues-doja-cat-2",
+   "tipo": "intro",
+   "momento": "despues",
+   "artista": "Doja Cat",
+   "texto": "Acabas de escuchar a Doja Cat."
+  },
+  {
+   "id": "intro-antes-doja-cat-1",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Doja Cat",
+   "texto": "Y ahora, Doja Cat."
+  },
+  {
+   "id": "intro-antes-doja-cat-2",
+   "tipo": "intro",
+   "momento": "antes",
+   "artista": "Doja Cat",
+   "texto": "Sigue Doja Cat."
+  },
+  {
+   "id": "dato-artista-weeknd-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "The Weeknd",
+   "texto": "Dato curioso: The Weeknd se llama en realidad Abel Tesfaye, es de Toronto, y empezó subiendo sus canciones a internet de forma anónima, sin mostrar su cara ni decir quién era."
+  },
+  {
+   "id": "dato-artista-weeknd-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "The Weeknd",
+   "texto": "¿Sabías que The Weeknd se escribe sin una e porque ya existía una banda canadiense llamada The Weekend? Según contó él mismo, el nombre viene de una vez que se fue de casa un fin de semana y no volvió."
+  },
+  {
+   "id": "dato-artista-weeknd-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "The Weeknd",
+   "texto": "Dato curioso: en 2021, The Weeknd fue la estrella del espectáculo de medio tiempo del Super Bowl, en un estadio con aforo reducido por la pandemia."
+  },
+  {
+   "id": "dato-artista-weeknd-4",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "The Weeknd",
+   "texto": "Los papás de The Weeknd llegaron a Canadá desde Etiopía, y él creció en Toronto, la ciudad donde empezó a publicar su música."
+  },
+  {
+   "id": "dato-artista-tame-impala-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Tame Impala",
+   "texto": "Tame Impala suena como una banda completa, pero en realidad es el proyecto de una sola persona: Kevin Parker, de Perth, Australia, que toca casi todos los instrumentos él mismo."
+  },
+  {
+   "id": "dato-artista-tame-impala-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Tame Impala",
+   "texto": "Dato curioso: Rihanna grabó su propia versión de una canción de Tame Impala, New Person, Same Old Mistakes, y la llamó Same Ol' Mistakes."
+  },
+  {
+   "id": "dato-artista-tame-impala-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Tame Impala",
+   "texto": "Tame Impala nació en Perth, una de las ciudades más aisladas del mundo, y años después fue una de las bandas principales del festival Coachella."
+  },
+  {
+   "id": "dato-artista-tame-impala-4",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Tame Impala",
+   "texto": "Dato curioso: Tame Impala empezó en 2010 con el álbum Innerspeaker, y desde entonces ha ido cambiando de sonido, del rock psicodélico a algo mucho más bailable."
+  },
+  {
+   "id": "dato-artista-brockhampton-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "BROCKHAMPTON",
+   "texto": "BROCKHAMPTON se formó a partir de un foro de internet de fans de Kanye West, y llegó a tener más de una docena de integrantes: rapperos, productores, diseñadores y fotógrafos."
+  },
+  {
+   "id": "dato-artista-brockhampton-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "BROCKHAMPTON",
+   "texto": "Dato curioso: en 2017, BROCKHAMPTON lanzó tres álbumes en un solo año, la trilogía Saturation. Eso sí es productividad."
+  },
+  {
+   "id": "dato-artista-brockhampton-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "BROCKHAMPTON",
+   "texto": "Los integrantes de BROCKHAMPTON vivieron juntos en una casa en Los Ángeles, y ahí grababan gran parte de su música."
+  },
+  {
+   "id": "dato-artista-brockhampton-4",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "BROCKHAMPTON",
+   "texto": "En 2022, BROCKHAMPTON anunció un descanso indefinido y se despidió con sus últimos álbumes, pero su música sigue sonando por aquí."
+  },
+  {
+   "id": "dato-artista-silk-sonic-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Silk Sonic",
+   "texto": "Bruno Mars y Anderson .Paak se hicieron amigos cuando Anderson abrió los conciertos de una gira de Bruno, y de esa amistad nació Silk Sonic."
+  },
+  {
+   "id": "dato-artista-silk-sonic-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Silk Sonic",
+   "texto": "El sonido de Silk Sonic viene del soul y el funk de los años setenta, con mucha elegancia, mucho ritmo y mucho trajecito."
+  },
+  {
+   "id": "dato-artista-silk-sonic-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Silk Sonic",
+   "texto": "Anderson .Paak, la mitad de Silk Sonic, además de cantar es baterista, y a veces canta mientras toca la batería. Ah, y su apellido artístico lleva un punto adelante."
+  },
+  {
+   "id": "dato-artista-silk-sonic-4",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Silk Sonic",
+   "texto": "Bruno Mars, la otra mitad de Silk Sonic, nació en Hawái, se llama Peter Gene Hernandez, y desde chiquito ya hacía shows imitando a Elvis Presley."
+  },
+  {
+   "id": "dato-artista-solange-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Solange",
+   "texto": "Solange es la hermana menor de Beyoncé, pero hace tiempo que construyó su propio camino: escribe, produce y además trabaja el arte visual."
+  },
+  {
+   "id": "dato-artista-solange-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Solange",
+   "texto": "Solange nació en Houston, Texas, y empezó su carrera siendo muy joven: su primer álbum salió cuando tenía apenas dieciséis años."
+  },
+  {
+   "id": "dato-artista-solange-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Solange",
+   "texto": "Solange ha llevado su música a museos y espacios de arte, no solo a salas de conciertos. Para ella, un concierto también puede ser una obra de arte."
+  },
+  {
+   "id": "dato-artista-doja-cat-1",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Doja Cat",
+   "texto": "Dato curioso: Doja Cat se hizo viral primero con una canción absurda llamada Mooo, en la que rapea como si fuera una vaca. Sí, una vaca."
+  },
+  {
+   "id": "dato-artista-doja-cat-2",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Doja Cat",
+   "texto": "El papá de Doja Cat es sudafricano, su mamá es estadounidense, y ella creció en Los Ángeles rodeada de arte, música y baile."
+  },
+  {
+   "id": "dato-artista-doja-cat-3",
+   "tipo": "dato",
+   "ambito": "artista",
+   "artista": "Doja Cat",
+   "texto": "Doja Cat empezó subiendo música a SoundCloud cuando todavía era adolescente, y esas canciones terminaron llamando la atención de un sello discográfico."
+  },
+  {
+   "id": "dato-album-weeknd-house-of-balloons",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "The Weeknd",
+   "album": "House of Balloons",
+   "texto": "House of Balloons, de The Weeknd, salió en 2011 como un mixtape gratuito en internet, y fue el primer paso de su carrera. Ya ves lo que hizo después de regalar su música."
+  },
+  {
+   "id": "dato-album-weeknd-beauty-behind-the-madness",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "The Weeknd",
+   "album": "Beauty Behind the Madness",
+   "texto": "Beauty Behind the Madness, de The Weeknd, incluye Earned It, una canción escrita para la película Cincuenta sombras de Grey, que fue nominada al Óscar como mejor canción original."
+  },
+  {
+   "id": "dato-album-weeknd-starboy",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "The Weeknd",
+   "album": "Starboy",
+   "texto": "En el álbum Starboy, de The Weeknd, colabora Daft Punk, que aparece en dos canciones: Starboy e I Feel It Coming."
+  },
+  {
+   "id": "dato-album-weeknd-after-hours",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "The Weeknd",
+   "album": "After Hours",
+   "texto": "After Hours, de The Weeknd, llegó con un personaje: un tipo de saco rojo y la cara golpeada, que fue cambiando de video en video durante toda esa etapa."
+  },
+  {
+   "id": "dato-album-weeknd-dawn-fm",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "The Weeknd",
+   "album": "Dawn FM",
+   "texto": "Dawn FM, el álbum de The Weeknd, está planteado como una estación de radio, y el locutor es el actor Jim Carrey. Un disco que es una radio... me siento muy representada."
+  },
+  {
+   "id": "dato-album-tame-impala-innerspeaker",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Tame Impala",
+   "album": "Innerspeaker",
+   "texto": "Innerspeaker, el primer álbum de Tame Impala, salió en 2010, y Kevin Parker grabó casi todo él mismo: batería, guitarras, bajo y voces."
+  },
+  {
+   "id": "dato-album-tame-impala-lonerism",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Tame Impala",
+   "album": "Lonerism",
+   "texto": "El título Lonerism, de Tame Impala, viene de la palabra loner, que en inglés significa alguien solitario, y el disco trata sobre sentirse un poco fuera de lugar."
+  },
+  {
+   "id": "dato-album-tame-impala-currents",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Tame Impala",
+   "album": "Currents",
+   "texto": "En Currents, el disco de Tame Impala de 2015, Kevin Parker cambió buena parte del rock psicodélico por sintetizadores y ritmos mucho más bailables."
+  },
+  {
+   "id": "dato-album-tame-impala-the-slow-rush",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Tame Impala",
+   "album": "The Slow Rush",
+   "texto": "The Slow Rush, de Tame Impala, salió en 2020, casi cinco años después de Currents, y el tema central del disco es el tiempo."
+  },
+  {
+   "id": "dato-album-brockhampton-saturation",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "BROCKHAMPTON",
+   "album": "Saturation",
+   "texto": "Saturation, de BROCKHAMPTON, fue el primero de tres discos que salieron en 2017. Para que te des una idea: uno en junio, otro en agosto y otro en diciembre."
+  },
+  {
+   "id": "dato-album-brockhampton-saturation-ii",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "BROCKHAMPTON",
+   "album": "Saturation II",
+   "texto": "Saturation II, de BROCKHAMPTON, salió en agosto de 2017, apenas dos meses y medio después del primero. Y todavía faltaba el tercero."
+  },
+  {
+   "id": "dato-album-brockhampton-saturation-iii",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "BROCKHAMPTON",
+   "album": "Saturation III",
+   "texto": "Saturation III cerró la trilogía de BROCKHAMPTON en diciembre de 2017: tres álbumes en seis meses."
+  },
+  {
+   "id": "dato-album-brockhampton-iridescence",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "BROCKHAMPTON",
+   "album": "Iridescence",
+   "texto": "Iridescence fue el primer álbum de BROCKHAMPTON con un sello grande, RCA, después de la trilogía Saturation."
+  },
+  {
+   "id": "dato-album-silk-sonic-an-evening-with-silk-sonic",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Silk Sonic",
+   "album": "An Evening with Silk Sonic",
+   "texto": "En An Evening with Silk Sonic, el músico Bootsy Collins hace de presentador, como si fuera el maestro de ceremonias de una gran noche."
+  },
+  {
+   "id": "dato-album-solange-a-seat-at-the-table",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Solange",
+   "album": "A Seat at the Table",
+   "texto": "A Seat at the Table, de Solange, llegó al número uno de la lista de álbumes de Billboard en 2016, y entre canción y canción tiene interludios con las voces de sus papás."
+  },
+  {
+   "id": "dato-album-solange-when-i-get-home",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Solange",
+   "album": "When I Get Home",
+   "texto": "When I Get Home, de Solange, salió en 2019 con una película que lo acompaña, y es una especie de carta de amor a Houston, su ciudad."
+  },
+  {
+   "id": "dato-album-solange-true",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Solange",
+   "album": "True",
+   "texto": "True, un EP de Solange de 2012, tiene un sonido muy ochentero, y ahí está Losing You."
+  },
+  {
+   "id": "dato-album-doja-cat-amala",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Doja Cat",
+   "album": "Amala",
+   "texto": "Amala, de Doja Cat, lleva el nombre de pila de ella: su nombre real es Amala Dlamini."
+  },
+  {
+   "id": "dato-album-doja-cat-hot-pink",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Doja Cat",
+   "album": "Hot Pink",
+   "texto": "Hot Pink, de Doja Cat, salió en 2019 y fue el disco que la convirtió en estrella mundial gracias a Say So."
+  },
+  {
+   "id": "dato-album-doja-cat-planet-her",
+   "tipo": "dato",
+   "ambito": "album",
+   "artista": "Doja Cat",
+   "album": "Planet Her",
+   "texto": "Planet Her, de Doja Cat, salió en 2021 y está lleno de imaginería espacial: planetas, extraterrestres, todo muy intergaláctico."
+  },
+  {
+   "id": "dato-cancion-weeknd-blinding-lights",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "The Weeknd",
+   "cancion": "Blinding Lights",
+   "texto": "Sobre Blinding Lights, de The Weeknd: la revista Billboard la nombró la canción número uno de todos los tiempos en su lista Hot 100. No está mal para una canción con ritmo ochentero."
+  },
+  {
+   "id": "dato-cancion-weeknd-die-for-you",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "The Weeknd",
+   "cancion": "Die for You",
+   "texto": "Die for You, de The Weeknd, salió en 2016, pero llegó al número uno en Estados Unidos en 2023, más de seis años después. Hay canciones que se toman su tiempo."
+  },
+  {
+   "id": "dato-cancion-weeknd-starboy",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "The Weeknd",
+   "cancion": "Starboy",
+   "texto": "La canción Starboy, de The Weeknd con Daft Punk, llegó al número uno de la lista Hot 100 en Estados Unidos."
+  },
+  {
+   "id": "dato-cancion-tame-impala-let-it-happen",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Tame Impala",
+   "cancion": "Let It Happen",
+   "texto": "Let It Happen, de Tame Impala, dura casi ocho minutos, y en medio hay un momento en el que la canción parece saltarse, como un disco rayado. Es a propósito."
+  },
+  {
+   "id": "dato-cancion-silk-sonic-leave-the-door-open",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Silk Sonic",
+   "cancion": "Leave the Door Open",
+   "texto": "Leave the Door Open, de Silk Sonic, ganó cuatro premios Grammy en 2022, incluyendo grabación del año y canción del año."
+  },
+  {
+   "id": "dato-cancion-solange-cranes-in-the-sky",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Solange",
+   "cancion": "Cranes in the Sky",
+   "texto": "Cranes in the Sky, de Solange, ganó el Grammy a mejor interpretación de R&B en 2017."
+  },
+  {
+   "id": "dato-cancion-solange-losing-you",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Solange",
+   "cancion": "Losing You",
+   "texto": "Losing You, de Solange, la hizo junto a Dev Hynes, también conocido como Blood Orange."
+  },
+  {
+   "id": "dato-cancion-doja-cat-say-so",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Doja Cat",
+   "cancion": "Say So",
+   "texto": "Say So, de Doja Cat, explotó en TikTok gracias a un baile, y con la versión junto a Nicki Minaj llegó al número uno en Estados Unidos en 2020."
+  },
+  {
+   "id": "dato-cancion-doja-cat-kiss-me-more",
+   "tipo": "dato",
+   "ambito": "cancion",
+   "artista": "Doja Cat",
+   "cancion": "Kiss Me More",
+   "texto": "Kiss Me More, de Doja Cat con SZA, ganó el Grammy a mejor interpretación pop de dúo o grupo."
+  },
+  {
+   "id": "gracioso-1",
+   "tipo": "gracioso",
+   "texto": "Dato random: los pulpos tienen tres corazones, y cuando nadan, uno de ellos se detiene. Por eso prefieren caminar. Pereza con fundamento."
+  },
+  {
+   "id": "gracioso-2",
+   "tipo": "gracioso",
+   "texto": "Dato random: los wombats hacen caca en forma de cubos. Sí, cubos. Y los usan para marcar su territorio."
+  },
+  {
+   "id": "gracioso-3",
+   "tipo": "gracioso",
+   "texto": "Dato random: las nutrias de mar duermen tomadas de la mano para no alejarse unas de otras mientras el agua las mueve."
+  },
+  {
+   "id": "gracioso-4",
+   "tipo": "gracioso",
+   "texto": "Dato random: un día en Venus dura más que un año en Venus. Ese planeta gira sobre sí mismo tan despacio que su año termina antes que su día."
+  },
+  {
+   "id": "gracioso-5",
+   "tipo": "gracioso",
+   "texto": "Dato random: la miel casi nunca se echa a perder. Si encuentras un frasco olvidado en tu cocina, probablemente siga perfecto."
+  },
+  {
+   "id": "gracioso-6",
+   "tipo": "gracioso",
+   "texto": "Dato random: el corazón de un camarón está en su cabeza. Imagínate pensar con el corazón, pero literal."
+  },
+  {
+   "id": "gracioso-7",
+   "tipo": "gracioso",
+   "texto": "Dato random: las fresas no son bayas, pero los plátanos sí. La botánica no tiene piedad con nadie."
+  },
+  {
+   "id": "gracioso-8",
+   "tipo": "gracioso",
+   "texto": "Dato random: los gatos no pueden sentir el sabor dulce. Así que no te sientas culpable si no comparten tu postre."
+  },
+  {
+   "id": "gracioso-9",
+   "tipo": "gracioso",
+   "texto": "Dato random: los cocodrilos no pueden sacar la lengua. La tienen pegada al paladar. Qué mal para hacer muecas."
+  },
+  {
+   "id": "gracioso-10",
+   "tipo": "gracioso",
+   "texto": "Dato random: una nube de algodón típica pesa alrededor de quinientas toneladas, más o menos como cien elefantes flotando sobre tu cabeza."
+  },
+  {
+   "id": "gracioso-11",
+   "tipo": "gracioso",
+   "texto": "Dato random: los flamencos nacen con plumas grises y se ponen rosados por lo que comen: algas y pequeños crustáceos. Eres lo que comes, versión flamenco."
+  },
+  {
+   "id": "gracioso-12",
+   "tipo": "gracioso",
+   "texto": "Dato random: los koalas tienen huellas dactilares casi idénticas a las de los humanos. En una escena del crimen, nadie sabría quién fue."
+  },
+  {
+   "id": "gracioso-13",
+   "tipo": "gracioso",
+   "texto": "Dato random: según el récord Guinness, la canción más corta del mundo es You Suffer, de Napalm Death, y dura poco más de un segundo. Ni te da tiempo de elegir otra."
+  },
+  {
+   "id": "gracioso-14",
+   "tipo": "gracioso",
+   "texto": "Dato random: cuando escuchas una canción que te encanta, tu cerebro libera dopamina, la misma sustancia relacionada con el placer. O sea, ahora mismo estás haciendo justo lo que tu cerebro quiere."
+  },
+  {
+   "id": "enlace-1",
+   "tipo": "enlace",
+   "texto": "Estás en MNZ FM, la radio de tus artistas favoritos. Soy Mimi, y no me voy a ningún lado."
+  },
+  {
+   "id": "enlace-2",
+   "tipo": "enlace",
+   "texto": "MNZ FM: aquí solo suena lo que de verdad quieres escuchar. Sigo contigo, soy Mimi."
+  },
+  {
+   "id": "enlace-3",
+   "tipo": "enlace",
+   "texto": "Esto es MNZ FM. Si la canción te gustó, sube el volumen. Si no, no pasa nada, la que sigue seguro sí."
+  }
+ ]
+}
