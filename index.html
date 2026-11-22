@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#000000">
-  <title>MNZ FM</title>
+  <title>Mi Radio</title>
 
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icon-192.png">
@@ -1512,7 +1512,8 @@
       };
       try {
         speechSynthesis.cancel();
-        const u = new SpeechSynthesisUtterance(texto);
+        // las etiquetas de expresión ([laughs], [whispers]...) son solo para la voz de ElevenLabs: aquí no se leen
+        const u = new SpeechSynthesisUtterance(String(texto).replace(/\s*\[[^\]]*\]\s*/g, " ").trim());
         const voces = speechSynthesis.getVoices();
         const voz = voces.find(v => /^es[-_](419|MX|US|CO|AR|PE|CL)/i.test(v.lang)) || voces.find(v => /^es/i.test(v.lang));
         if (voz) u.voice = voz;

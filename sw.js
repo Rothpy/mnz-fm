@@ -1,6 +1,6 @@
 // Service worker: guarda la app en el teléfono para que abra sin internet.
 
-const CACHE = "mi-radio-v5";
+const CACHE = "mi-radio-v6";   // al subir de versión se borran los audios viejos guardados (la voz anterior)
 const ARCHIVOS = [
   "./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png",
   "./icono-play.png", "./icono-pausa.png", "./icono-adelante.png", "./icono-atras.png"
